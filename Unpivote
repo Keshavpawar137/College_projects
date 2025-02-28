@@ -1,0 +1,8 @@
+
+
+It is a reversing of pivoting data unpivoting is usefull when you need to transform a wide table in to a long table formate , making data analisis report easyier 
+
+Data normalization :
+1 ) improve analysisis : Atable along table formate is often more sutable for analysis specialy in tools like power bi  where it suport more dynamic and flexible reporting 
+2) Simplyify reporting : Unpivoting can silmpyifying the creation of Reports And Dashbords by providing a consistace Data structure 
+3) Consistancy : It Insures that Transformation and calculation are appying Consistantly across the dataset 
